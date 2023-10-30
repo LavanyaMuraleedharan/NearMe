@@ -170,6 +170,12 @@ A temple which gives a peaceful atmosphere with the blessings of lord Sai baba.E
 ## OUTPUT
 
 
+![output ](<web 4exp.png>) 
+![output](hotel.png) 
+![output1](school.png) 
+![output2](temple.png) 
+![output3](tanishq.png) 
+![output4](hospital.png) 
 ## HTML VALIDATOR
 
 
